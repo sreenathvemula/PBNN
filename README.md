@@ -1,2 +1,6 @@
 # PBNN
-PBNN
+Probabilisitic Bayesian Neural Networks to NGA-West2, NGA-Sub databases
+
+Stochastic ground motion models to NGA-West2 and NGA-Sub databases using Bayesian neural network
+Sreenath Vemula, STG Raghukanth
+email: vsreenath2@gmail.com
